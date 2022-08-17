@@ -28,8 +28,8 @@
 
 | Projeto | Descrição | Tecnologias | Design e Deploy | Status |
 |:---:|:---:|:---:|:---:|---|
-| <img src="" alt=""> |  |  | <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a> <a href="http://desafio-codelandia-blog.vercel.app/"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a> | <p align="center"><img src="https://i.imgur.com/QQksIZo.png" alt=""> <br> Em andamento</p> |
-| <img src="" alt=""> | |  | <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a> <a href="http://desafio-codelandia-blog.vercel.app/"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a> | <p align="center"><img src="https://i.imgur.com/QQksIZo.png" alt=""> <br> Não iniciado</p> |
+| <img src="" alt=""> |  |  | <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a> | <p align="center"><img src="https://i.imgur.com/QQksIZo.png" alt=""> <br> Em andamento</p> |
+| <img src="" alt=""> | |  | <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>  | <p align="center"><img src="https://i.imgur.com/QQksIZo.png" alt=""> <br> Não iniciado</p> |
 
 
 
